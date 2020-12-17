@@ -123,3 +123,14 @@ output:
 
 
 <b> That worked!</b>
+
+
+# Helpful Links
+
++ [RStudio](https://community.rstudio.com/t/how-to-make-r-markdown-use-an-updated-version-of-pandoc-on-my-mac/19923/3)
+
++ [bookdown](https://bookdown.org/yihui/rmarkdown-cookbook/install-pandoc.html)
+
++ [talk.macpower](https://talk.macpowerusers.com/t/workflow-automatically-convert-markdown-to-pdf-pandoc-latex-hazel/15506/11)
+
++ [StackExchange](https://tex.stackexchange.com/questions/257418/error-tightlist-converting-md-file-into-pdf-using-pandoc)
