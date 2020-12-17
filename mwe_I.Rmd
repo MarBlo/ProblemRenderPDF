@@ -9,5 +9,6 @@ output:
 
 # Title
 
-Text
+That works because of call for `template`.
+
 
